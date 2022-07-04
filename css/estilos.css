@@ -1,0 +1,20 @@
+*{
+    font-family: 'Cormorant Garamond', serif;
+    overflow-x: hidden;
+}
+p {
+    font-size: larger;
+}
+.navbar {
+    font-weight: 600;
+    font-size: 1.5625rem;
+    background-color: #123524;
+}
+.navbar a:hover {
+    color: #ffffff;
+}
+
+.container-fluid {
+    background-color: #123524;
+}
+
